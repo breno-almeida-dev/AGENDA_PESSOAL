@@ -17,15 +17,15 @@ A aplicação conta com uma interface gráfica para navegação entre os método
 
 ## Funcionamento do programa:
 
-- INSERT:
+## INSERT:
 ![Imagem do terminal GUI](https://github.com/breno-almeida-dev/AGENDA_PESSOAL/blob/master/GUI-Agenda-1.png)
 ![Imagem do banco de dados](https://github.com/breno-almeida-dev/AGENDA_PESSOAL/blob/master/BD-Agenda-1.png)
 
-- UPDATE e SELECT:
+## UPDATE e SELECT:
 ![Imagem do terminal GUI](https://github.com/breno-almeida-dev/AGENDA_PESSOAL/blob/master/GUI-Agenda-2.png)
 ![Imagem do banco de dados](https://github.com/breno-almeida-dev/AGENDA_PESSOAL/blob/master/BD-Agenda-2.png)
 
-- DELETE:
+## DELETE:
 ![Imagem do terminal GUI](https://github.com/breno-almeida-dev/AGENDA_PESSOAL/blob/master/GUI-Agenda-3.png)
 ![Imagem do banco de dados](https://github.com/breno-almeida-dev/AGENDA_PESSOAL/blob/master/BD-Agenda-3.png)
 
